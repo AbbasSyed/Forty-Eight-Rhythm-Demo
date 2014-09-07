@@ -5,5 +5,5 @@ The official Android Developer's site recommends setting the width and height of
 
 The design below is implemented from the official Android site. This is an Android Studio project which I have made to demonstrate how to design such a Layout in XML. Note that width attribute of each nested LinearLayout is kept to a minimum of 48dp in height to maintain effective scalability and ease of touch responsiveness across varying screen densities and sizes.       
 
-![](http://i.imgur.com/D4PdsDZ.png)
+![](http://developer.android.com/design/media/metrics_forms.png)
 

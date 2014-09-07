@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Date" >
+        <item>Dec 25, 2011</item>
+    </string-array>
+
+</resources>

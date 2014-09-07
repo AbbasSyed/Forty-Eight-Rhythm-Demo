@@ -7,6 +7,3 @@ The design below is implemented from the official Android site. This is an Andro
 
 ![](http://i.imgur.com/D4PdsDZ.png)
 
-
-![original design](http://developer.android.com/design/media/metrics_forms.png)
-
